@@ -1,4 +1,3 @@
-# Angular 2 Weather App (Tutorial)
+WeatherApp made by Mazahir Hashimli using Angular JS 2.0
 
-## Description
-This repository holds the source code of my YouTube Tutorial series on how to build an Angular 2 Weather App.
+Profile: https://github.com/mazahir89
